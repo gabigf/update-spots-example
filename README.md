@@ -1,6 +1,5 @@
 ## Update Spots
-
-DO NOT FORK!   use the "Use this template" function instead
+Template to test the update spots function from the scheduler project.
 
 ```
 npm install
